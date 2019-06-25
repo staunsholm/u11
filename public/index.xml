@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U11</title>
+    <link>https://example.com/</link>
+    <description>Recent content on U11</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 19 Jun 2019 20:58:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Klubben</title>
+      <link>https://example.com/klubben/</link>
+      <pubDate>Wed, 19 Jun 2019 20:58:57 +0200</pubDate>
+      
+      <guid>https://example.com/klubben/</guid>
+      <description>Børne og ungdomspolitik
+Den lilla tråd</description>
+    </item>
+    
+    <item>
+      <title>Træningen</title>
+      <link>https://example.com/tr%C3%A6ningen/</link>
+      <pubDate>Wed, 19 Jun 2019 20:58:45 +0200</pubDate>
+      
+      <guid>https://example.com/tr%C3%A6ningen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Træningstider</title>
+      <link>https://example.com/tider/</link>
+      <pubDate>Wed, 19 Jun 2019 20:58:20 +0200</pubDate>
+      
+      <guid>https://example.com/tider/</guid>
+      <description>Mandag 16.30 - 18.00 i Vanløse Hallerne, Hal 1
+Onsdag 17.00 - 18.30 på Falkonergården
+Vanløse Hallerne, Hal 1 Lønstrupvej 4, 2720 København Falkonergårdens Gymnasium Sønderjyllands Alle 25, 2000 Frederiksberg  </description>
+    </item>
+    
+    <item>
+      <title>Øvelser</title>
+      <link>https://example.com/%C3%B8velser/</link>
+      <pubDate>Wed, 19 Jun 2019 20:57:19 +0200</pubDate>
+      
+      <guid>https://example.com/%C3%B8velser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kampe</title>
+      <link>https://example.com/kampe/</link>
+      <pubDate>Sun, 16 Jun 2019 01:31:15 +0200</pubDate>
+      
+      <guid>https://example.com/kampe/</guid>
+      <description>Generelt henviser vi til Holdsport i forhold til hvornår og hvor kampe bliver spillet. Dette gælder både træningskampe, stævner og turneringskampe.
+Stillingen for U11-A rækken kan ses på Floorball Danmarks resultatservice</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://example.com/kontakt/</link>
+      <pubDate>Sun, 16 Jun 2019 01:31:09 +0200</pubDate>
+      
+      <guid>https://example.com/kontakt/</guid>
+      <description>Trænerne på U11 i 2019&amp;frasl;20
+Mads Staunsholm, tlf: 51802749 Mikkel Staunsholm, tlf: 42733319 Sophus Ørnskov  Ungdomsformand
+Jesper Malm  </description>
+    </item>
+    
+    <item>
+      <title>Årshjul</title>
+      <link>https://example.com/hjul/</link>
+      <pubDate>Sun, 16 Jun 2019 01:28:18 +0200</pubDate>
+      
+      <guid>https://example.com/hjul/</guid>
+      <description>Tanken er at bygge et solidt fundament, som der løbende bygges oven på. Således er det tanken at alt hvad man har lært i tidligere måneder også vil blive trænet i kommende måneder, men derudover tilføjes nye udfordringer.
+August - September  Teknik: Simple øvelser (pasninger, skud, forhånd/baghånd)
+ Kammeratskab, lære hinanden at kende. De nye skal lære at holde korrekt på staven, diverse termer og regler. Lære at spille sammen.</description>
+    </item>
+    
+  </channel>
+</rss>

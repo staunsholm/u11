@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/klubben/</loc>
+    <lastmod>2019-06-19T20:58:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-06-19T20:58:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tr%C3%A6ningen/</loc>
+    <lastmod>2019-06-19T20:58:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tider/</loc>
+    <lastmod>2019-06-19T20:58:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/%C3%B8velser/</loc>
+    <lastmod>2019-06-19T20:57:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/kampe/</loc>
+    <lastmod>2019-06-16T01:31:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/kontakt/</loc>
+    <lastmod>2019-06-16T01:31:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/hjul/</loc>
+    <lastmod>2019-06-16T01:28:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

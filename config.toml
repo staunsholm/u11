@@ -1,0 +1,98 @@
+baseURL = "https://example.com"
+languageCode = "da-dk"
+defaultContentLanguage = "da"
+title = "U11"
+theme = "hermit"
+# enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "yourdiscussshortname"
+
+[author]
+  name = "Trænerteamet"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#7C2180"
+
+  homeSubtitle = "Vanløse Floorball"
+  footerCopyright = ''
+  # bgImg = ""  # Homepage background-image URL
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/username/repository/commit/"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/groups/177818905972394/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Holdsport"
+    url = "https://www.holdsport.dk/current_team?current_team_id=141546"
+    weight = 5
+
+  [[menu.main]]
+    name = "Årshjul"
+    url = "hjul/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Kontakt"
+    url = "kontakt/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Kampe"
+    url = "kampe/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Træningstider"
+    url = "tider/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Træningen"
+    url = "træningen/"
+    weight = 50
+
+  [[menu.main]]
+    name = "Klubben"
+    url = "klubben/"
+    weight = 60
+
+  [[menu.main]]
+    name = "Øvelser"
+    url = "øvelser/"
+    weight = 70
